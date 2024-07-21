@@ -1,0 +1,81 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+a{
+text-decoration: none;
+color: #000000;
+font-size: 18px;
+}
+.arribad{
+    width: 90%;
+    text-align: right;
+    list-style-type: none;
+}
+.cajasuperior{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(119, 183, 255);
+    border: 1px solid #3a3b74;
+  
+}
+.cajaizquierda{
+    font-size: 25px;
+    text-align: center;
+    width: 20%;
+    height: 1212px;
+    background-color: #00295c;
+    float: left;
+    border: 1px solid #3a3b74;
+}
+.todositems{
+    width: 80%;
+    background-color: #00295c;
+    float: left;
+ 
+}
+.body{
+    max-width: 1200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #333;
+}
+
+
+.cajasteles{
+    text-align: center;
+    
+    width: 24%;
+    background-color: rgb(162, 180, 177);
+    border: 2px solid #555;
+    float: left;
+    margin: 0.5%;
+    
+}
+
+
+
+.img{
+    max-width: 100%;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px, 0 40px 0;
+}
+
+
+.item{
+border-radius: 10px;
+width: 100%;
+text-align: center;
+}
+
+
+.descuento{
+    color:rgb(255, 0, 0);
+}
+
